@@ -4,15 +4,10 @@
 Self-taught game developer & digital creator who enjoys prototyping ideas, learning new technologies, and understanding how things work under the hood.
 </p>
 
-<p align="center">
-Currently learning <b>Rust</b> 🦀 & <b>React</b> ⚛️
-</p>
-
 <h2 align="center">🌱 Currently</h2>
 
 <p align="center">
 
-• Learning <b>Rust</b> & <b>React</b><br>
 • Exploring desktop application development and software architecture<br>
 • Learning by prototyping ideas and turning them into real product.
 
