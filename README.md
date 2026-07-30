@@ -97,7 +97,7 @@ Desktop Applications • Graphics Programming • Systems Programming • Creati
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-<a href="https://github.com/MayFe-XD">
+<a href="https://github.com/MAYFEX5">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32"/>
 </a>
 
