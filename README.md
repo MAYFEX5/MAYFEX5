@@ -19,10 +19,6 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <p align="center">
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/>
-</a>
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
@@ -47,6 +43,11 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 <!-- C# -->
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" title="C#"/>
+</a> <br>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/>
 </a>
 
 <!-- Linux -->
