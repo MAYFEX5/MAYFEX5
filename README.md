@@ -27,8 +27,10 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- CSS -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="36" title="CSS"/>
 </a>
+
+<!--src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"-->
 
 <!-- Rust -->
 <!--a href="https://www.rust-lang.org/" target="_blank">
