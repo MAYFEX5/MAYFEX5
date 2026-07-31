@@ -27,7 +27,7 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- CSS -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="32" title="CSS"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="31" title="CSS"/>
 </a>
 
 <!--src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"-->
