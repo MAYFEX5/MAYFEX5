@@ -44,8 +44,10 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- C# -->
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" title="C#"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_C_sharp.png" width="36" title="C#"/>
 </a> <br>
+
+<!--src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"-->
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
