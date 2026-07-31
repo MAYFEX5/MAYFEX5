@@ -22,8 +22,10 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/3840px-HTML5_Badge.svg.png" width="36" title="HTML"/>
 </a>
+
+<!--src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"-->
 
 <!-- CSS -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank">
