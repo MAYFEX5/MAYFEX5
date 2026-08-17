@@ -58,7 +58,7 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/>
+<img src="https://free-astro.org/images/5/5d/Arch_logo.png" width="36" title="Linux"/>
 </a>
 
 <!-- Unity -->
