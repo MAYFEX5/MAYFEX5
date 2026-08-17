@@ -68,12 +68,12 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" title="Blender"/>
+<img src="https://freepngimg.com/download/ubuntu/59906-icons-linux-rendering-computer-graphics-blender-3d.png" width="36" title="Blender"/>
 </a>
 
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="36" title="VS Code"/>
 </a>
 
 <!-- Photoshop -->
