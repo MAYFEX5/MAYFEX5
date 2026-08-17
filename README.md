@@ -104,7 +104,7 @@ Desktop Applications • Graphics Programming • Systems Programming • Creati
 
 <p align="center">
 <a href="https://github.com/MAYFEX5">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="32"/>
 </a>
 
 <a href="https://x.com/MayFe_xS">
