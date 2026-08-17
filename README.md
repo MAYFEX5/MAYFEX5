@@ -68,7 +68,7 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank">
-<img src="https://freepngimg.com/download/ubuntu/59906-icons-linux-rendering-computer-graphics-blender-3d.png" width="36" title="Blender"/>
+<img src="https://beatrixyu.com/wp-content/uploads/2024/02/blender-logo-square.png" width="36" title="Blender"/>
 </a>
 
 <!-- VS Code -->
