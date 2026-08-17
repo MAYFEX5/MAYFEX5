@@ -108,7 +108,7 @@ Desktop Applications • Graphics Programming • Systems Programming • Creati
 </a>
 
 <a href="https://x.com/MayFe_xS">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32"/>
+<img src="https://img.magnific.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_test_b&w=740&q=80" width="32"/>
 </a>
 
 <a href="https://discord.com/users/901815916759769099">
