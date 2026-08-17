@@ -53,7 +53,7 @@ Self-taught game developer & digital creator who enjoys prototyping ideas, learn
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="36" title="Git"/>
 </a>
 
 <!-- Linux -->
